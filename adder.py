@@ -1,7 +1,7 @@
-def sumOfNum(a, b):
+def sumOfNumber(a, b):
     return a + b
 
 a = 1
 b = 4
-c = sumOfNum(a, c)
+c = sumOfNumber(a, c)
 print(c)
